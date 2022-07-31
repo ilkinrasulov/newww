@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  box-sizing: border-box;
+  margin: 0;
+  overflow-x: hidden;
+  width: 100%;
+}
+
+span:hover + img {
+  background-color: black;
+}
+a {
+  text-decoration: none;
+}
+a {
+  color: inherit;
+}
+li {
+  list-style: none;
+}
